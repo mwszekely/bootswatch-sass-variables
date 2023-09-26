@@ -1,0 +1,2 @@
+@use "./dependencies/_list-group-item-padding-y.scss" as *;
+@forward "bootstrap-sass-variables/list-group-item-padding-y" with ($list-group-item-padding-y: 1rem !default);

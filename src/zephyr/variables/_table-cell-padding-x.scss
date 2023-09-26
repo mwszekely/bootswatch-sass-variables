@@ -1,0 +1,2 @@
+@use "./dependencies/_table-cell-padding-x.scss" as *;
+@forward "bootstrap-sass-variables/table-cell-padding-x" with ($table-cell-padding-x: 1rem !default);

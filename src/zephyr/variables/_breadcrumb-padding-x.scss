@@ -1,0 +1,2 @@
+@use "./dependencies/_breadcrumb-padding-x.scss" as *;
+@forward "bootstrap-sass-variables/breadcrumb-padding-x" with ($breadcrumb-padding-x: 1rem !default);

@@ -1,0 +1,2 @@
+@use "./dependencies/_card-cap-padding-y.scss" as *;
+@forward "bootstrap-sass-variables/card-cap-padding-y" with ($card-cap-padding-y: 1rem !default);

@@ -1,0 +1,2 @@
+@use "./dependencies/_btn-active-box-shadow.scss" as *;
+@forward "bootstrap-sass-variables/btn-active-box-shadow" with ($btn-active-box-shadow: $box-shadow !default);

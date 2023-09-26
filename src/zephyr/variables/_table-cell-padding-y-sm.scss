@@ -1,0 +1,2 @@
+@use "./dependencies/_table-cell-padding-y-sm.scss" as *;
+@forward "bootstrap-sass-variables/table-cell-padding-y-sm" with ($table-cell-padding-y-sm: .5rem !default);

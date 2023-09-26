@@ -1,0 +1,2 @@
+@use "./dependencies/_navbar-nav-link-padding-x.scss" as *;
+@forward "bootstrap-sass-variables/navbar-nav-link-padding-x" with ($navbar-nav-link-padding-x: .75rem !default);

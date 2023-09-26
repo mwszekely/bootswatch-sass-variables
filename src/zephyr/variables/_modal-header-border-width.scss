@@ -1,0 +1,2 @@
+@use "./dependencies/_modal-header-border-width.scss" as *;
+@forward "bootstrap-sass-variables/modal-header-border-width" with ($modal-header-border-width: 0 !default);

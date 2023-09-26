@@ -1,0 +1,2 @@
+@use "./dependencies/_enable-shadows.scss" as *;
+@forward "bootstrap-sass-variables/enable-shadows" with ($enable-shadows: true !default);

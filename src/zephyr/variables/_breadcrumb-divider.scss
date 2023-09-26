@@ -1,0 +1,2 @@
+@use "./dependencies/_breadcrumb-divider.scss" as *;
+@forward "bootstrap-sass-variables/breadcrumb-divider" with ($breadcrumb-divider: quote(">") !default);

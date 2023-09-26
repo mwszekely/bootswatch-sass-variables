@@ -1,0 +1,2 @@
+@use "./dependencies/_form-label-font-weight.scss" as *;
+@forward "bootstrap-sass-variables/form-label-font-weight" with ($form-label-font-weight: 500 !default);

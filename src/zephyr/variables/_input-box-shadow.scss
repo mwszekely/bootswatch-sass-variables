@@ -1,0 +1,2 @@
+@use "./dependencies/_input-box-shadow.scss" as *;
+@forward "bootstrap-sass-variables/input-box-shadow" with ($input-box-shadow: $box-shadow !default);

@@ -1,0 +1,2 @@
+@use "./dependencies/_pagination-padding-x.scss" as *;
+@forward "bootstrap-sass-variables/pagination-padding-x" with ($pagination-padding-x: 1rem !default);

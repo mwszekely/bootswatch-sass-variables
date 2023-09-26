@@ -1,0 +1,2 @@
+@use "./dependencies/_input-btn-font-size.scss" as *;
+@forward "bootstrap-sass-variables/input-btn-font-size" with ($input-btn-font-size: $font-size-sm !default);

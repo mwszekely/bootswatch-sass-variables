@@ -1,0 +1,2 @@
+@use "./dependencies/_box-shadow.scss" as *;
+@forward "bootstrap-sass-variables/box-shadow" with ($box-shadow: 0 1px 2px rgba($black, .05) !default);

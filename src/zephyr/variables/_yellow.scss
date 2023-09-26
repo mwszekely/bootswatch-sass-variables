@@ -1,0 +1,2 @@
+@use "./dependencies/_yellow.scss" as *;
+@forward "bootstrap-sass-variables/yellow" with ($yellow: #f4bd61 !default);

@@ -1,0 +1,2 @@
+@use "./dependencies/_dropdown-item-padding-x.scss" as *;
+@forward "bootstrap-sass-variables/dropdown-item-padding-x" with ($dropdown-item-padding-x: 1rem !default);

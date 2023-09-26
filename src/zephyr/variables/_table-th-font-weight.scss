@@ -1,0 +1,2 @@
+@use "./dependencies/_table-th-font-weight.scss" as *;
+@forward "bootstrap-sass-variables/table-th-font-weight" with ($table-th-font-weight: 500 !default);
