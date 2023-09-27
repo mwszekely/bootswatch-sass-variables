@@ -1,0 +1,2 @@
+@use "./dependencies/_secondary.scss" as *;
+@forward "bootstrap-sass-variables/secondary" with ($secondary: $gray-700 !default);

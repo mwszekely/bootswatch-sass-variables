@@ -1,0 +1,2 @@
+@use "./dependencies/_form-select-disabled-color.scss" as *;
+@forward "bootstrap-sass-variables/form-select-disabled-color" with ($form-select-disabled-color: $input-placeholder-color !default);

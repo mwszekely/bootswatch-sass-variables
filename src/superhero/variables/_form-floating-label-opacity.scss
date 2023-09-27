@@ -1,0 +1,2 @@
+@use "./dependencies/_form-floating-label-opacity.scss" as *;
+@forward "bootstrap-sass-variables/form-floating-label-opacity" with ($form-floating-label-opacity: 1 !default);

@@ -1,0 +1,2 @@
+@use "./dependencies/_accordion-border-width.scss" as *;
+@forward "bootstrap-sass-variables/accordion-border-width" with ($accordion-border-width: 0 !default);

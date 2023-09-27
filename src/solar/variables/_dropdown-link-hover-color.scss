@@ -1,0 +1,2 @@
+@use "./dependencies/_dropdown-link-hover-color.scss" as *;
+@forward "bootstrap-sass-variables/dropdown-link-hover-color" with ($dropdown-link-hover-color: rgba(255, 255, 255, .75) !default);

@@ -1,0 +1,2 @@
+@use "./dependencies/_enable-gradients.scss" as *;
+@forward "bootstrap-sass-variables/enable-gradients" with ($enable-gradients: true !default);

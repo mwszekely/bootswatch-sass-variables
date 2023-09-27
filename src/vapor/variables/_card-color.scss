@@ -1,0 +1,2 @@
+@use "./dependencies/_card-color.scss" as *;
+@forward "bootstrap-sass-variables/card-color" with ($card-color: $white !default);

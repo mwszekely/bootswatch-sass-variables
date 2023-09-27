@@ -1,0 +1,2 @@
+@use "./dependencies/_pagination-hover-bg.scss" as *;
+@forward "bootstrap-sass-variables/pagination-hover-bg" with ($pagination-hover-bg: $primary !default);

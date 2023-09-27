@@ -1,0 +1,2 @@
+@use "./dependencies/_pagination-focus-box-shadow.scss" as *;
+@forward "bootstrap-sass-variables/pagination-focus-box-shadow" with ($pagination-focus-box-shadow: none !default);

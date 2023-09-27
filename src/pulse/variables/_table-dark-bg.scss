@@ -1,0 +1,2 @@
+@use "./dependencies/_table-dark-bg.scss" as *;
+@forward "bootstrap-sass-variables/table-dark-bg" with ($table-dark-bg: $dark !default);

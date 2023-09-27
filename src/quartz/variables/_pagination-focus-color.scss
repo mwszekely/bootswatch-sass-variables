@@ -1,0 +1,2 @@
+@use "./dependencies/_pagination-focus-color.scss" as *;
+@forward "bootstrap-sass-variables/pagination-focus-color" with ($pagination-focus-color: $white !default);

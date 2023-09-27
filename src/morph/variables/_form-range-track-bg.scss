@@ -1,0 +1,2 @@
+@use "./dependencies/_form-range-track-bg.scss" as *;
+@forward "bootstrap-sass-variables/form-range-track-bg" with ($form-range-track-bg: rgba(darken($body-bg, 50%), .15) !default);

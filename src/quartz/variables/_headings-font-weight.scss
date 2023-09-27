@@ -1,0 +1,2 @@
+@use "./dependencies/_headings-font-weight.scss" as *;
+@forward "bootstrap-sass-variables/headings-font-weight" with ($headings-font-weight: 700 !default);

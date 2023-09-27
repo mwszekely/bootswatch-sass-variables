@@ -1,0 +1,2 @@
+@use "./dependencies/_list-group-item-bg-scale.scss" as *;
+@forward "bootstrap-sass-variables/list-group-item-bg-scale" with ($list-group-item-bg-scale: 0% !default);

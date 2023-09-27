@@ -1,0 +1,2 @@
+@use "./dependencies/_link-color.scss" as *;
+@forward "bootstrap-sass-variables/_link-color.scss" with ($link-color: $info !default);

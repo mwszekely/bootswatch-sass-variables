@@ -1,0 +1,2 @@
+@use "./dependencies/_teal.scss" as *;
+@forward "bootstrap-sass-variables/_teal.scss" with ($teal: #20c997 !default);

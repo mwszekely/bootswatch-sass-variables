@@ -1,0 +1,2 @@
+@use "./dependencies/_btn-close-hover-opacity.scss" as *;
+@forward "bootstrap-sass-variables/_btn-close-hover-opacity.scss" with ($btn-close-hover-opacity: 1 !default);

@@ -1,0 +1,2 @@
+@use "./dependencies/_text-muted.scss" as *;
+@forward "bootstrap-sass-variables/text-muted" with ($text-muted: rgba(255, 255, 255, .4) !default);

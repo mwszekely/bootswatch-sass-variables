@@ -1,0 +1,2 @@
+@use "./dependencies/_warning.scss" as *;
+@forward "bootstrap-sass-variables/warning" with ($warning: $orange !default);

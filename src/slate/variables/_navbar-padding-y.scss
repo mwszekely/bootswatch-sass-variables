@@ -1,0 +1,2 @@
+@use "./dependencies/_navbar-padding-y.scss" as *;
+@forward "bootstrap-sass-variables/navbar-padding-y" with ($navbar-padding-y: 0 !default);

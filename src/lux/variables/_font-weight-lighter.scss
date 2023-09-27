@@ -1,0 +1,2 @@
+@use "./dependencies/_font-weight-lighter.scss" as *;
+@forward "bootstrap-sass-variables/font-weight-lighter" with ($font-weight-lighter: lighter !default);

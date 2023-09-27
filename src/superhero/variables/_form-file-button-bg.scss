@@ -1,0 +1,2 @@
+@use "./dependencies/_form-file-button-bg.scss" as *;
+@forward "bootstrap-sass-variables/form-file-button-bg" with ($form-file-button-bg: $input-group-addon-bg !default);

@@ -1,0 +1,2 @@
+@use "./dependencies/_font-weight-normal.scss" as *;
+@forward "bootstrap-sass-variables/font-weight-normal" with ($font-weight-normal: 300 !default);

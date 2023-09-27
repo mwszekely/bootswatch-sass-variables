@@ -1,0 +1,2 @@
+@use "./dependencies/_pre-color.scss" as *;
+@forward "bootstrap-sass-variables/pre-color" with ($pre-color: inherit !default);

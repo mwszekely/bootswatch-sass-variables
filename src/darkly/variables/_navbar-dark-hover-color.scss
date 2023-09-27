@@ -1,0 +1,2 @@
+@use "./dependencies/_navbar-dark-hover-color.scss" as *;
+@forward "bootstrap-sass-variables/navbar-dark-hover-color" with ($navbar-dark-hover-color: $white !default);

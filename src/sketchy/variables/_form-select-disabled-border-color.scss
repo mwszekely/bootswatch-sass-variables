@@ -1,0 +1,2 @@
+@use "./dependencies/_form-select-disabled-border-color.scss" as *;
+@forward "bootstrap-sass-variables/form-select-disabled-border-color" with ($form-select-disabled-border-color: $input-disabled-border-color !default);

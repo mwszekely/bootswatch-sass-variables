@@ -1,0 +1,2 @@
+@use "./dependencies/_btn-close-opacity.scss" as *;
+@forward "bootstrap-sass-variables/btn-close-opacity" with ($btn-close-opacity: .6 !default);

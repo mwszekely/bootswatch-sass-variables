@@ -1,0 +1,2 @@
+@use "./dependencies/_btn-line-height.scss" as *;
+@forward "bootstrap-sass-variables/btn-line-height" with ($btn-line-height: 1.5rem !default);

@@ -1,0 +1,2 @@
+@use "./dependencies/_pagination-border-width.scss" as *;
+@forward "bootstrap-sass-variables/pagination-border-width" with ($pagination-border-width: 0 !default);

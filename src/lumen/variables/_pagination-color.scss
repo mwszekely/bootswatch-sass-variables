@@ -1,0 +1,2 @@
+@use "./dependencies/_pagination-color.scss" as *;
+@forward "bootstrap-sass-variables/_pagination-color.scss" with ($pagination-color: $gray-700 !default);

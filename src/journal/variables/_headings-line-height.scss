@@ -1,0 +1,2 @@
+@use "./dependencies/_headings-line-height.scss" as *;
+@forward "bootstrap-sass-variables/headings-line-height" with ($headings-line-height: 1.1 !default);

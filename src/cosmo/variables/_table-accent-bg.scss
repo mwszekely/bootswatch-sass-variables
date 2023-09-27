@@ -1,0 +1,2 @@
+@use "./dependencies/_table-accent-bg.scss" as *;
+@forward "bootstrap-sass-variables/table-accent-bg" with ($table-accent-bg: rgba($white, .05) !default);

@@ -1,0 +1,2 @@
+@use "./dependencies/_font-family-sans-serif.scss" as *;
+@forward "bootstrap-sass-variables/font-family-sans-serif" with ($font-family-sans-serif: #{Neucha, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif} !default);

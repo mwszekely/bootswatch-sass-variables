@@ -1,0 +1,2 @@
+@use "./dependencies/_enable-rounded.scss" as *;
+@forward "bootstrap-sass-variables/enable-rounded" with ($enable-rounded: false !default);

@@ -1,0 +1,2 @@
+@use "./dependencies/_green.scss" as *;
+@forward "bootstrap-sass-variables/_green.scss" with ($green: #3cb521 !default);

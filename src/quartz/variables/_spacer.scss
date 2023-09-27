@@ -1,0 +1,2 @@
+@use "./dependencies/_spacer.scss" as *;
+@forward "bootstrap-sass-variables/spacer" with ($spacer: 2rem !default);

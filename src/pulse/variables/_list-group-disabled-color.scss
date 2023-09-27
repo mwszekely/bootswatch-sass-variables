@@ -1,0 +1,2 @@
+@use "./dependencies/_list-group-disabled-color.scss" as *;
+@forward "bootstrap-sass-variables/list-group-disabled-color" with ($list-group-disabled-color: lighten($list-group-bg, 30%) !default);

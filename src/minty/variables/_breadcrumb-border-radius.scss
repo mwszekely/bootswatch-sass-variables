@@ -1,0 +1,2 @@
+@use "./dependencies/_breadcrumb-border-radius.scss" as *;
+@forward "bootstrap-sass-variables/breadcrumb-border-radius" with ($breadcrumb-border-radius: .25rem !default);

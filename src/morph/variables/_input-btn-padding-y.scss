@@ -1,0 +1,2 @@
+@use "./dependencies/_input-btn-padding-y.scss" as *;
+@forward "bootstrap-sass-variables/input-btn-padding-y" with ($input-btn-padding-y: 1rem !default);

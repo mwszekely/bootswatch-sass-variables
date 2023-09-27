@@ -1,0 +1,2 @@
+@use "./dependencies/_popover-arrow-color.scss" as *;
+@forward "bootstrap-sass-variables/popover-arrow-color" with ($popover-arrow-color: $border-color !default);

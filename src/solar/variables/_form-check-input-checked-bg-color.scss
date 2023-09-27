@@ -1,0 +1,2 @@
+@use "./dependencies/_form-check-input-checked-bg-color.scss" as *;
+@forward "bootstrap-sass-variables/form-check-input-checked-bg-color" with ($form-check-input-checked-bg-color: $primary !default);

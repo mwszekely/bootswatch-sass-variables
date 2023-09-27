@@ -1,0 +1,2 @@
+@use "./dependencies/_card-border-color.scss" as *;
+@forward "bootstrap-sass-variables/card-border-color" with ($card-border-color: $gray-800 !default);

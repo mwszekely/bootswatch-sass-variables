@@ -1,0 +1,2 @@
+@use "./dependencies/_list-group-active-bg.scss" as *;
+@forward "bootstrap-sass-variables/list-group-active-bg" with ($list-group-active-bg: $list-group-hover-bg !default);

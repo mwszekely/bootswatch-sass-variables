@@ -1,0 +1,2 @@
+@use "./dependencies/_popover-body-padding-y.scss" as *;
+@forward "bootstrap-sass-variables/popover-body-padding-y" with ($popover-body-padding-y: $spacer * .5 !default);

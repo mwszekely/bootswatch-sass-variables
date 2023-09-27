@@ -1,0 +1,2 @@
+@use "./dependencies/_input-border-color.scss" as *;
+@forward "bootstrap-sass-variables/input-border-color" with ($input-border-color: $body-bg !default);

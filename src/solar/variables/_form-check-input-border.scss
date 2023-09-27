@@ -1,0 +1,2 @@
+@use "./dependencies/_form-check-input-border.scss" as *;
+@forward "bootstrap-sass-variables/form-check-input-border" with ($form-check-input-border: 1px solid $white !default);

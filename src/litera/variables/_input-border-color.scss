@@ -1,0 +1,2 @@
+@use "./dependencies/_input-border-color.scss" as *;
+@forward "bootstrap-sass-variables/_input-border-color.scss" with ($input-border-color: rgba(0, 0, 0, .1) !default);

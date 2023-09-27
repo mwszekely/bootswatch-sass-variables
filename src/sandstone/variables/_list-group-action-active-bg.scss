@@ -1,0 +1,2 @@
+@use "./dependencies/_list-group-action-active-bg.scss" as *;
+@forward "bootstrap-sass-variables/list-group-action-active-bg" with ($list-group-action-active-bg: $gray-300 !default);

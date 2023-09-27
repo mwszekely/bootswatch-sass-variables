@@ -1,0 +1,2 @@
+@use "./dependencies/_modal-content-color.scss" as *;
+@forward "bootstrap-sass-variables/modal-content-color" with ($modal-content-color: $white !default);

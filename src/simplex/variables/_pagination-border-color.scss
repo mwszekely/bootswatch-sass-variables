@@ -1,0 +1,2 @@
+@use "./dependencies/_pagination-border-color.scss" as *;
+@forward "bootstrap-sass-variables/pagination-border-color" with ($pagination-border-color: $nav-tabs-border-color !default);

@@ -1,0 +1,2 @@
+@use "./dependencies/_popover-body-color.scss" as *;
+@forward "bootstrap-sass-variables/popover-body-color" with ($popover-body-color: $white !default);

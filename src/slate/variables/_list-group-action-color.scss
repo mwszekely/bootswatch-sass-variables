@@ -1,0 +1,2 @@
+@use "./dependencies/_list-group-action-color.scss" as *;
+@forward "bootstrap-sass-variables/list-group-action-color" with ($list-group-action-color: $white !default);

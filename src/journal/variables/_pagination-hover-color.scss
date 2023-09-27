@@ -1,0 +1,2 @@
+@use "./dependencies/_pagination-hover-color.scss" as *;
+@forward "bootstrap-sass-variables/pagination-hover-color" with ($pagination-hover-color: $white !default);

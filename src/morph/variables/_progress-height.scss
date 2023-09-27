@@ -1,0 +1,2 @@
+@use "./dependencies/_progress-height.scss" as *;
+@forward "bootstrap-sass-variables/progress-height" with ($progress-height: 1.5rem !default);

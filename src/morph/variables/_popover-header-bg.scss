@@ -1,0 +1,2 @@
+@use "./dependencies/_popover-header-bg.scss" as *;
+@forward "bootstrap-sass-variables/popover-header-bg" with ($popover-header-bg: transparent !default);

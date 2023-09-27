@@ -1,0 +1,2 @@
+@use "./dependencies/_input-group-addon-bg.scss" as *;
+@forward "bootstrap-sass-variables/input-group-addon-bg" with ($input-group-addon-bg: transparent !default);

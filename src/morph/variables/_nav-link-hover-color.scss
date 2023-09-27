@@ -1,0 +1,2 @@
+@use "./dependencies/_nav-link-hover-color.scss" as *;
+@forward "bootstrap-sass-variables/nav-link-hover-color" with ($nav-link-hover-color: $nav-link-color !default);

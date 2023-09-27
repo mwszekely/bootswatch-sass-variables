@@ -1,0 +1,2 @@
+@use "./dependencies/_info.scss" as *;
+@forward "bootstrap-sass-variables/_info.scss" with ($info: $cyan !default);

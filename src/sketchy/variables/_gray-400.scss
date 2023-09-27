@@ -1,0 +1,2 @@
+@use "./dependencies/_gray-400.scss" as *;
+@forward "bootstrap-sass-variables/gray-400" with ($gray-400: #ccc !default);

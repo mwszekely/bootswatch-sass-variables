@@ -1,0 +1,2 @@
+@use "./dependencies/_input-group-addon-color.scss" as *;
+@forward "bootstrap-sass-variables/input-group-addon-color" with ($input-group-addon-color: $gray-500 !default);

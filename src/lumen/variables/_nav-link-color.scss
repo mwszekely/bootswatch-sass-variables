@@ -1,0 +1,2 @@
+@use "./dependencies/_nav-link-color.scss" as *;
+@forward "bootstrap-sass-variables/_nav-link-color.scss" with ($nav-link-color: var(--#{$prefix}link-color) !default);

@@ -1,0 +1,2 @@
+@use "./dependencies/_table-color.scss" as *;
+@forward "bootstrap-sass-variables/table-color" with ($table-color: $white !default);

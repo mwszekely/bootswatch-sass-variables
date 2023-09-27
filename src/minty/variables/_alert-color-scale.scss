@@ -1,0 +1,2 @@
+@use "./dependencies/_alert-color-scale.scss" as *;
+@forward "bootstrap-sass-variables/alert-color-scale" with ($alert-color-scale: 0% !default);

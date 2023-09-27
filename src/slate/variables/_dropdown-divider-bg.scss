@@ -1,0 +1,2 @@
+@use "./dependencies/_dropdown-divider-bg.scss" as *;
+@forward "bootstrap-sass-variables/dropdown-divider-bg" with ($dropdown-divider-bg: rgba($black, .15) !default);

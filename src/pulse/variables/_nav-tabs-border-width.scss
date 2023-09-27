@@ -1,0 +1,2 @@
+@use "./dependencies/_nav-tabs-border-width.scss" as *;
+@forward "bootstrap-sass-variables/nav-tabs-border-width" with ($nav-tabs-border-width: 0 !default);

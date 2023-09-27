@@ -1,0 +1,2 @@
+@use "./dependencies/_pagination-active-border-color.scss" as *;
+@forward "bootstrap-sass-variables/pagination-active-border-color" with ($pagination-active-border-color: $gray-300 !default);

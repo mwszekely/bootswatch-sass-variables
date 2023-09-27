@@ -1,0 +1,2 @@
+@use "./dependencies/_input-disabled-bg.scss" as *;
+@forward "bootstrap-sass-variables/input-disabled-bg" with ($input-disabled-bg: $gray-400 !default);

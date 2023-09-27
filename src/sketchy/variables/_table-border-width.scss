@@ -1,0 +1,2 @@
+@use "./dependencies/_table-border-width.scss" as *;
+@forward "bootstrap-sass-variables/table-border-width" with ($table-border-width: 2px !default);

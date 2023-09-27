@@ -1,0 +1,2 @@
+@use "./dependencies/_nav-link-color.scss" as *;
+@forward "bootstrap-sass-variables/nav-link-color" with ($nav-link-color: $body-color !default);

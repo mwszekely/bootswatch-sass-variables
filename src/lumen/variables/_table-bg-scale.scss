@@ -1,0 +1,2 @@
+@use "./dependencies/_table-bg-scale.scss" as *;
+@forward "bootstrap-sass-variables/_table-bg-scale.scss" with ($table-bg-scale: 0% !default);

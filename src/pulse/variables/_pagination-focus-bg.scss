@@ -1,0 +1,2 @@
+@use "./dependencies/_pagination-focus-bg.scss" as *;
+@forward "bootstrap-sass-variables/pagination-focus-bg" with ($pagination-focus-bg: $dropdown-link-hover-bg !default);

@@ -1,0 +1,2 @@
+@use "./dependencies/_tooltip-font-size.scss" as *;
+@forward "bootstrap-sass-variables/_tooltip-font-size.scss" with ($tooltip-font-size: 11px !default);

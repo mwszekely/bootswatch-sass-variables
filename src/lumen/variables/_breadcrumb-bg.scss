@@ -1,0 +1,2 @@
+@use "./dependencies/_breadcrumb-bg.scss" as *;
+@forward "bootstrap-sass-variables/_breadcrumb-bg.scss" with ($breadcrumb-bg: $pagination-bg !default);

@@ -1,0 +1,2 @@
+@use "./dependencies/_pagination-disabled-bg.scss" as *;
+@forward "bootstrap-sass-variables/_pagination-disabled-bg.scss" with ($pagination-disabled-bg: $pagination-bg !default);

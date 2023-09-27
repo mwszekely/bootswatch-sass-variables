@@ -1,0 +1,2 @@
+@use "./dependencies/_box-shadow-sm.scss" as *;
+@forward "bootstrap-sass-variables/box-shadow-sm" with ($box-shadow-sm: #{0 .125rem .25rem rgba(darken($body-bg, 50%), .2)} !default);

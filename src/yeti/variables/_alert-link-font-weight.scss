@@ -1,0 +1,2 @@
+@use "./dependencies/_alert-link-font-weight.scss" as *;
+@forward "bootstrap-sass-variables/alert-link-font-weight" with ($alert-link-font-weight: 400 !default);

@@ -1,0 +1,2 @@
+@use "./dependencies/_toast-header-border-color.scss" as *;
+@forward "bootstrap-sass-variables/toast-header-border-color" with ($toast-header-border-color: $toast-border-color !default);

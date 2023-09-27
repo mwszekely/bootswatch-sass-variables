@@ -1,0 +1,2 @@
+@use "./dependencies/_accordion-button-active-color.scss" as *;
+@forward "bootstrap-sass-variables/accordion-button-active-color" with ($accordion-button-active-color: $body-color !default);

@@ -1,0 +1,2 @@
+@use "./dependencies/_form-select-indicator-color.scss" as *;
+@forward "bootstrap-sass-variables/form-select-indicator-color" with ($form-select-indicator-color: $body-color !default);

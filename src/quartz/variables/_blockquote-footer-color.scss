@@ -1,0 +1,2 @@
+@use "./dependencies/_blockquote-footer-color.scss" as *;
+@forward "bootstrap-sass-variables/blockquote-footer-color" with ($blockquote-footer-color: $text-muted !default);

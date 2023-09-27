@@ -1,0 +1,2 @@
+@use "./dependencies/_card-inner-border-radius.scss" as *;
+@forward "bootstrap-sass-variables/card-inner-border-radius" with ($card-inner-border-radius: 0 !default);

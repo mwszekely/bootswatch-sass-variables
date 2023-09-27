@@ -1,0 +1,2 @@
+@use "./dependencies/_pagination-padding-y-sm.scss" as *;
+@forward "bootstrap-sass-variables/pagination-padding-y-sm" with ($pagination-padding-y-sm: .5rem !default);

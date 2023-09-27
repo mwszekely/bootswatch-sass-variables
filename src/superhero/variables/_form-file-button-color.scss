@@ -1,0 +1,2 @@
+@use "./dependencies/_form-file-button-color.scss" as *;
+@forward "bootstrap-sass-variables/form-file-button-color" with ($form-file-button-color: $input-group-addon-color !default);

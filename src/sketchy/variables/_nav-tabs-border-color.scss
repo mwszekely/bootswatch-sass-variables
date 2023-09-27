@@ -1,0 +1,2 @@
+@use "./dependencies/_nav-tabs-border-color.scss" as *;
+@forward "bootstrap-sass-variables/nav-tabs-border-color" with ($nav-tabs-border-color: $gray-800 !default);

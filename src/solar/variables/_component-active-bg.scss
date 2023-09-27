@@ -1,0 +1,2 @@
+@use "./dependencies/_component-active-bg.scss" as *;
+@forward "bootstrap-sass-variables/component-active-bg" with ($component-active-bg: $gray-800 !default);

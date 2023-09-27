@@ -1,0 +1,2 @@
+@use "./dependencies/_popover-bg.scss" as *;
+@forward "bootstrap-sass-variables/popover-bg" with ($popover-bg: $gray-600 !default);

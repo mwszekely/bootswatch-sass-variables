@@ -1,0 +1,2 @@
+@use "./dependencies/_h2-font-size.scss" as *;
+@forward "bootstrap-sass-variables/h2-font-size" with ($h2-font-size: 3rem !default);

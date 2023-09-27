@@ -1,0 +1,2 @@
+@use "./dependencies/_form-range-thumb-disabled-bg.scss" as *;
+@forward "bootstrap-sass-variables/form-range-thumb-disabled-bg" with ($form-range-thumb-disabled-bg: $gray-200 !default);

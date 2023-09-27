@@ -1,0 +1,2 @@
+@use "./dependencies/_badge-padding-y.scss" as *;
+@forward "bootstrap-sass-variables/_badge-padding-y.scss" with ($badge-padding-y: .6em !default);

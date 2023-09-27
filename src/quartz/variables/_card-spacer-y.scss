@@ -1,0 +1,2 @@
+@use "./dependencies/_card-spacer-y.scss" as *;
+@forward "bootstrap-sass-variables/card-spacer-y" with ($card-spacer-y: 1.75rem !default);

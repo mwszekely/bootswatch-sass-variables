@@ -1,0 +1,2 @@
+@use "./dependencies/_h6-font-size.scss" as *;
+@forward "bootstrap-sass-variables/h6-font-size" with ($h6-font-size: .75rem !default);

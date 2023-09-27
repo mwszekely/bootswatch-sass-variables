@@ -1,0 +1,2 @@
+@use "./dependencies/_card-border-width.scss" as *;
+@forward "bootstrap-sass-variables/card-border-width" with ($card-border-width: 0 !default);

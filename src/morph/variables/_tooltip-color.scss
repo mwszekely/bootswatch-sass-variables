@@ -1,0 +1,2 @@
+@use "./dependencies/_tooltip-color.scss" as *;
+@forward "bootstrap-sass-variables/tooltip-color" with ($tooltip-color: $body-color !default);

@@ -1,0 +1,2 @@
+@use "./dependencies/_white.scss" as *;
+@forward "bootstrap-sass-variables/_white.scss" with ($white: #fff !default);

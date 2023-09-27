@@ -1,0 +1,2 @@
+@use "./dependencies/_nav-pills-border-radius.scss" as *;
+@forward "bootstrap-sass-variables/nav-pills-border-radius" with ($nav-pills-border-radius: $border-radius-pill !default);

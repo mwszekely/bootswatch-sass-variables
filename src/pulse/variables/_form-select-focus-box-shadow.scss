@@ -1,0 +1,2 @@
+@use "./dependencies/_form-select-focus-box-shadow.scss" as *;
+@forward "bootstrap-sass-variables/form-select-focus-box-shadow" with ($form-select-focus-box-shadow: none !default);

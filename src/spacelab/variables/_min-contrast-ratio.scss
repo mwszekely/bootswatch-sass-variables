@@ -1,0 +1,2 @@
+@use "./dependencies/_min-contrast-ratio.scss" as *;
+@forward "bootstrap-sass-variables/_min-contrast-ratio.scss" with ($min-contrast-ratio: 2.65 !default);

@@ -1,0 +1,2 @@
+@use "./dependencies/_btn-close-focus-shadow.scss" as *;
+@forward "bootstrap-sass-variables/btn-close-focus-shadow" with ($btn-close-focus-shadow: none !default);

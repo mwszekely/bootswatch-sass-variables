@@ -1,0 +1,2 @@
+@use "./dependencies/_component-active-color.scss" as *;
+@forward "bootstrap-sass-variables/component-active-color" with ($component-active-color: rgba(255, 255, 255, .75) !default);

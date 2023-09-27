@@ -1,0 +1,2 @@
+@use "./dependencies/_box-shadow-lg.scss" as *;
+@forward "bootstrap-sass-variables/box-shadow-lg" with ($box-shadow-lg: #{8px 8px 40px rgba(darken($body-bg, 90%), .15)} !default);

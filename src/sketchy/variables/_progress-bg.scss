@@ -1,0 +1,2 @@
+@use "./dependencies/_progress-bg.scss" as *;
+@forward "bootstrap-sass-variables/progress-bg" with ($progress-bg: $white !default);

@@ -1,0 +1,2 @@
+@use "./dependencies/_accordion-bg.scss" as *;
+@forward "bootstrap-sass-variables/accordion-bg" with ($accordion-bg: $card-bg !default);

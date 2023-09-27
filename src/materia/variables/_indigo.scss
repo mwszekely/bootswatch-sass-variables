@@ -1,0 +1,2 @@
+@use "./dependencies/_indigo.scss" as *;
+@forward "bootstrap-sass-variables/indigo" with ($indigo: #6610f2 !default);

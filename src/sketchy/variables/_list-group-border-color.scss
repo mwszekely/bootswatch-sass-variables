@@ -1,0 +1,2 @@
+@use "./dependencies/_list-group-border-color.scss" as *;
+@forward "bootstrap-sass-variables/list-group-border-color" with ($list-group-border-color: $gray-800 !default);

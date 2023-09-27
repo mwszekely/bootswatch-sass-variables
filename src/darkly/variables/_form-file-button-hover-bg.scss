@@ -1,0 +1,2 @@
+@use "./dependencies/_form-file-button-hover-bg.scss" as *;
+@forward "bootstrap-sass-variables/form-file-button-hover-bg" with ($form-file-button-hover-bg: darken($form-file-button-bg, 5%) !default);

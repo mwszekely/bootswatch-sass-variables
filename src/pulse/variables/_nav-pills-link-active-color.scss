@@ -1,0 +1,2 @@
+@use "./dependencies/_nav-pills-link-active-color.scss" as *;
+@forward "bootstrap-sass-variables/nav-pills-link-active-color" with ($nav-pills-link-active-color: $white !default);

@@ -1,0 +1,2 @@
+@use "./dependencies/_form-select-disabled-bg.scss" as *;
+@forward "bootstrap-sass-variables/form-select-disabled-bg" with ($form-select-disabled-bg: $input-disabled-bg !default);

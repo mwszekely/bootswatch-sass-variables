@@ -1,0 +1,2 @@
+@use "./dependencies/_btn-font-family.scss" as *;
+@forward "bootstrap-sass-variables/_btn-font-family.scss" with ($btn-font-family: $font-family-sans-serif !default);

@@ -1,0 +1,2 @@
+@use "./dependencies/_form-switch-color.scss" as *;
+@forward "bootstrap-sass-variables/form-switch-color" with ($form-switch-color: rgba(255, 255, 255, .75) !default);

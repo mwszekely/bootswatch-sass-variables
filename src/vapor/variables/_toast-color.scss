@@ -1,0 +1,2 @@
+@use "./dependencies/_toast-color.scss" as *;
+@forward "bootstrap-sass-variables/toast-color" with ($toast-color: $white !default);

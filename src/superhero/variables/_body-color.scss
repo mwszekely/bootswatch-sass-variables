@@ -1,0 +1,2 @@
+@use "./dependencies/_body-color.scss" as *;
+@forward "bootstrap-sass-variables/body-color" with ($body-color: $gray-100 !default);

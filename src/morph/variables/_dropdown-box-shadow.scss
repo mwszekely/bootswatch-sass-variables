@@ -1,0 +1,2 @@
+@use "./dependencies/_dropdown-box-shadow.scss" as *;
+@forward "bootstrap-sass-variables/dropdown-box-shadow" with ($dropdown-box-shadow: #{$box-shadow-lg, inset 1px 1px 3px rgba($white, .5), inset -5px -5px 20px rgba($black, .05)} !default);

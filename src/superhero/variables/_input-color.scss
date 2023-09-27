@@ -1,0 +1,2 @@
+@use "./dependencies/_input-color.scss" as *;
+@forward "bootstrap-sass-variables/input-color" with ($input-color: $gray-900 !default);

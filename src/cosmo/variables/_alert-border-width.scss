@@ -1,0 +1,2 @@
+@use "./dependencies/_alert-border-width.scss" as *;
+@forward "bootstrap-sass-variables/alert-border-width" with ($alert-border-width: 0 !default);

@@ -1,0 +1,2 @@
+@use "./dependencies/_table-dark-border-color.scss" as *;
+@forward "bootstrap-sass-variables/table-dark-border-color" with ($table-dark-border-color: darken($dark, 5%) !default);

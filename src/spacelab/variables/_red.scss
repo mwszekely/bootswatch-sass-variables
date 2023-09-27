@@ -1,0 +1,2 @@
+@use "./dependencies/_red.scss" as *;
+@forward "bootstrap-sass-variables/_red.scss" with ($red: #cd0200 !default);

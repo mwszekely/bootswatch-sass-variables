@@ -1,0 +1,2 @@
+@use "./dependencies/_dropdown-link-color.scss" as *;
+@forward "bootstrap-sass-variables/dropdown-link-color" with ($dropdown-link-color: $body-color !default);

@@ -1,0 +1,2 @@
+@use "./dependencies/_tooltip-opacity.scss" as *;
+@forward "bootstrap-sass-variables/tooltip-opacity" with ($tooltip-opacity: .7 !default);

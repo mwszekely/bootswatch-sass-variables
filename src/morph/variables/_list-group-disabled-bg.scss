@@ -1,0 +1,2 @@
+@use "./dependencies/_list-group-disabled-bg.scss" as *;
+@forward "bootstrap-sass-variables/list-group-disabled-bg" with ($list-group-disabled-bg: transparent !default);

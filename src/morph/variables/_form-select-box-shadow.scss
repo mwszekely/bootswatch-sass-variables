@@ -1,0 +1,2 @@
+@use "./dependencies/_form-select-box-shadow.scss" as *;
+@forward "bootstrap-sass-variables/form-select-box-shadow" with ($form-select-box-shadow: $box-shadow-inset !default);

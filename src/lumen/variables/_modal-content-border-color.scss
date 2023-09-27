@@ -1,0 +1,2 @@
+@use "./dependencies/_modal-content-border-color.scss" as *;
+@forward "bootstrap-sass-variables/_modal-content-border-color.scss" with ($modal-content-border-color: rgba($black, .1) !default);

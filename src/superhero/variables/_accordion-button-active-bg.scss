@@ -1,0 +1,2 @@
+@use "./dependencies/_accordion-button-active-bg.scss" as *;
+@forward "bootstrap-sass-variables/accordion-button-active-bg" with ($accordion-button-active-bg: $primary !default);

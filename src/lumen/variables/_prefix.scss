@@ -1,0 +1,2 @@
+@use "./dependencies/_prefix.scss" as *;
+@forward "bootstrap-sass-variables/_prefix.scss" with ($prefix: $variable-prefix !default);

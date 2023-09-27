@@ -1,0 +1,2 @@
+@use "./dependencies/_pagination-active-color.scss" as *;
+@forward "bootstrap-sass-variables/pagination-active-color" with ($pagination-active-color: darken($pagination-color, 20%) !default);

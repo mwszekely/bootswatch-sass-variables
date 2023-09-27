@@ -1,0 +1,2 @@
+@use "./dependencies/_progress-border-radius.scss" as *;
+@forward "bootstrap-sass-variables/progress-border-radius" with ($progress-border-radius: 10px !default);

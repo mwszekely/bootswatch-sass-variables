@@ -1,0 +1,2 @@
+@use "./dependencies/_btn-font-weight.scss" as *;
+@forward "bootstrap-sass-variables/_btn-font-weight.scss" with ($btn-font-weight: 700 !default);

@@ -1,0 +1,2 @@
+@use "./dependencies/_table-hover-bg.scss" as *;
+@forward "bootstrap-sass-variables/table-hover-bg" with ($table-hover-bg: rgba($white, .075) !default);

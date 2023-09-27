@@ -1,0 +1,2 @@
+@use "./dependencies/_input-focus-box-shadow.scss" as *;
+@forward "bootstrap-sass-variables/input-focus-box-shadow" with ($input-focus-box-shadow: none !default);

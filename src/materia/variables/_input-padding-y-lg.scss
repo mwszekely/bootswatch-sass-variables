@@ -1,0 +1,2 @@
+@use "./dependencies/_input-padding-y-lg.scss" as *;
+@forward "bootstrap-sass-variables/input-padding-y-lg" with ($input-padding-y-lg: ($font-size-base * 1.25) !default);

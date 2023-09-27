@@ -1,0 +1,2 @@
+@use "./dependencies/_badge-font-weight.scss" as *;
+@forward "bootstrap-sass-variables/badge-font-weight" with ($badge-font-weight: 300 !default);

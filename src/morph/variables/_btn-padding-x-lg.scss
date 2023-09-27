@@ -1,0 +1,2 @@
+@use "./dependencies/_btn-padding-x-lg.scss" as *;
+@forward "bootstrap-sass-variables/btn-padding-x-lg" with ($btn-padding-x-lg: 2.25rem !default);

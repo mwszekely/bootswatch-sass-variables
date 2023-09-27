@@ -1,0 +1,2 @@
+@use "./dependencies/_pink.scss" as *;
+@forward "bootstrap-sass-variables/pink" with ($pink: #e83283 !default);

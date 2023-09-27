@@ -1,0 +1,2 @@
+@use "./dependencies/_progress-bar-color.scss" as *;
+@forward "bootstrap-sass-variables/progress-bar-color" with ($progress-bar-color: $gray-600 !default);

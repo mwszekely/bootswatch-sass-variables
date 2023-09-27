@@ -1,0 +1,2 @@
+@use "./dependencies/_border-radius.scss" as *;
+@forward "bootstrap-sass-variables/border-radius" with ($border-radius: .15rem !default);

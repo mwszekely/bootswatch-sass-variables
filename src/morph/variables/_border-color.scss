@@ -1,0 +1,2 @@
+@use "./dependencies/_border-color.scss" as *;
+@forward "bootstrap-sass-variables/border-color" with ($border-color: rgba(darken($body-bg, 50%), .1) !default);

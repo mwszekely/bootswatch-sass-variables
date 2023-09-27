@@ -1,0 +1,2 @@
+@use "./dependencies/_card-cap-bg.scss" as *;
+@forward "bootstrap-sass-variables/card-cap-bg" with ($card-cap-bg: transparent !default);

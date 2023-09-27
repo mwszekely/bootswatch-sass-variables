@@ -1,0 +1,2 @@
+@use "./dependencies/_input-padding-x-sm.scss" as *;
+@forward "bootstrap-sass-variables/input-padding-x-sm" with ($input-padding-x-sm: 0 !default);

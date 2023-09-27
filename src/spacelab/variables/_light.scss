@@ -1,0 +1,2 @@
+@use "./dependencies/_light.scss" as *;
+@forward "bootstrap-sass-variables/_light.scss" with ($light: $gray-200 !default);

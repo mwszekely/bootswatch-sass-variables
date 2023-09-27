@@ -1,0 +1,2 @@
+@use "./dependencies/_dropdown-link-hover-bg.scss" as *;
+@forward "bootstrap-sass-variables/dropdown-link-hover-bg" with ($dropdown-link-hover-bg: $gray-200 !default);

@@ -1,0 +1,2 @@
+@use "./dependencies/_input-border-radius.scss" as *;
+@forward "bootstrap-sass-variables/input-border-radius" with ($input-border-radius: 0 !default);

@@ -1,0 +1,2 @@
+@use "./dependencies/_form-range-thumb-active-bg.scss" as *;
+@forward "bootstrap-sass-variables/form-range-thumb-active-bg" with ($form-range-thumb-active-bg: $form-range-thumb-bg !default);

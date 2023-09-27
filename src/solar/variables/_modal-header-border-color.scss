@@ -1,0 +1,2 @@
+@use "./dependencies/_modal-header-border-color.scss" as *;
+@forward "bootstrap-sass-variables/modal-header-border-color" with ($modal-header-border-color: $body-bg !default);

@@ -1,0 +1,2 @@
+@use "./dependencies/_btn-border-radius-sm.scss" as *;
+@forward "bootstrap-sass-variables/btn-border-radius-sm" with ($btn-border-radius-sm: $border-radius-pill !default);

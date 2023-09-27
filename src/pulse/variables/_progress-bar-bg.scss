@@ -1,0 +1,2 @@
+@use "./dependencies/_progress-bar-bg.scss" as *;
+@forward "bootstrap-sass-variables/progress-bar-bg" with ($progress-bar-bg: $primary !default);

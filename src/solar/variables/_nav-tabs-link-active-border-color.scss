@@ -1,0 +1,2 @@
+@use "./dependencies/_nav-tabs-link-active-border-color.scss" as *;
+@forward "bootstrap-sass-variables/nav-tabs-link-active-border-color" with ($nav-tabs-link-active-border-color: $nav-tabs-border-color !default);

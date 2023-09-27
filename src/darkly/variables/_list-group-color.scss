@@ -1,0 +1,2 @@
+@use "./dependencies/_list-group-color.scss" as *;
+@forward "bootstrap-sass-variables/list-group-color" with ($list-group-color: $body-color !default);

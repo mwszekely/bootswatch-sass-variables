@@ -1,0 +1,2 @@
+@use "./dependencies/_input-line-height.scss" as *;
+@forward "bootstrap-sass-variables/input-line-height" with ($input-line-height: 1.5 !default);

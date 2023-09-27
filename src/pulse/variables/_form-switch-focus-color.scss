@@ -1,0 +1,2 @@
+@use "./dependencies/_form-switch-focus-color.scss" as *;
+@forward "bootstrap-sass-variables/form-switch-focus-color" with ($form-switch-focus-color: $form-switch-color !default);

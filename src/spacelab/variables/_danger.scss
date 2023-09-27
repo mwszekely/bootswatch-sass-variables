@@ -1,0 +1,2 @@
+@use "./dependencies/_danger.scss" as *;
+@forward "bootstrap-sass-variables/_danger.scss" with ($danger: $red !default);

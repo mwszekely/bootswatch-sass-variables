@@ -1,0 +1,2 @@
+@use "./dependencies/_table-dark-border-color.scss" as *;
+$table-dark-border-color: darken($gray-500, 3%) !default;

@@ -1,0 +1,2 @@
+@use "./dependencies/_btn-font-size-sm.scss" as *;
+@forward "bootstrap-sass-variables/_btn-font-size-sm.scss" with ($btn-font-size-sm: .688rem !default);

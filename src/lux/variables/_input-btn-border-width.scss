@@ -1,0 +1,2 @@
+@use "./dependencies/_input-btn-border-width.scss" as *;
+@forward "bootstrap-sass-variables/input-btn-border-width" with ($input-btn-border-width: 0 !default);

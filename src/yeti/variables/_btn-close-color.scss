@@ -1,0 +1,2 @@
+@use "./dependencies/_btn-close-color.scss" as *;
+@forward "bootstrap-sass-variables/btn-close-color" with ($btn-close-color: $gray-600 !default);

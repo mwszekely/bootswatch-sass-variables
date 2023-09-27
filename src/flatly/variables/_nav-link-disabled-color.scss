@@ -1,0 +1,2 @@
+@use "./dependencies/_nav-link-disabled-color.scss" as *;
+@forward "bootstrap-sass-variables/nav-link-disabled-color" with ($nav-link-disabled-color: $gray-600 !default);

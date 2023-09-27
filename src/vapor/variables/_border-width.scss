@@ -1,0 +1,2 @@
+@use "./dependencies/_border-width.scss" as *;
+@forward "bootstrap-sass-variables/border-width" with ($border-width: 0 !default);

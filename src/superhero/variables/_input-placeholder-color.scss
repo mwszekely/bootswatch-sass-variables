@@ -1,0 +1,2 @@
+@use "./dependencies/_input-placeholder-color.scss" as *;
+@forward "bootstrap-sass-variables/input-placeholder-color" with ($input-placeholder-color: $gray-500 !default);

@@ -1,0 +1,2 @@
+@use "./dependencies/_breadcrumb-active-color.scss" as *;
+@forward "bootstrap-sass-variables/breadcrumb-active-color" with ($breadcrumb-active-color: $component-active-bg !default);

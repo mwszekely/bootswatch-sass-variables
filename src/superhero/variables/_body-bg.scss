@@ -1,0 +1,2 @@
+@use "./dependencies/_body-bg.scss" as *;
+@forward "bootstrap-sass-variables/body-bg" with ($body-bg: #0f2537 !default);

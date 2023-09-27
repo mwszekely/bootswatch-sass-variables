@@ -1,0 +1,2 @@
+@use "./dependencies/_modal-content-border-color.scss" as *;
+@forward "bootstrap-sass-variables/modal-content-border-color" with ($modal-content-border-color: $gray-300 !default);

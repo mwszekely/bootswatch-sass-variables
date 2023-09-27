@@ -1,0 +1,2 @@
+@use "./dependencies/_toast-background-color.scss" as *;
+@forward "bootstrap-sass-variables/toast-background-color" with ($toast-background-color: lighten($body-bg, 5%) !default);

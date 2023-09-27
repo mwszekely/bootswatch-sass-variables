@@ -1,0 +1,2 @@
+@use "./dependencies/_table-border-color.scss" as *;
+@forward "bootstrap-sass-variables/table-border-color" with ($table-border-color: $gray-800 !default);

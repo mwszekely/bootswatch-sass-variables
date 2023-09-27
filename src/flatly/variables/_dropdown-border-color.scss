@@ -1,0 +1,2 @@
+@use "./dependencies/_dropdown-border-color.scss" as *;
+@forward "bootstrap-sass-variables/dropdown-border-color" with ($dropdown-border-color: $gray-400 !default);

@@ -1,0 +1,2 @@
+@use "./dependencies/_dropdown-header-color.scss" as *;
+@forward "bootstrap-sass-variables/dropdown-header-color" with ($dropdown-header-color: $gray-500 !default);

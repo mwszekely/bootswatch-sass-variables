@@ -1,0 +1,2 @@
+@use "./dependencies/_navbar-dark-color.scss" as *;
+@forward "bootstrap-sass-variables/navbar-dark-color" with ($navbar-dark-color: rgba($white, .8) !default);

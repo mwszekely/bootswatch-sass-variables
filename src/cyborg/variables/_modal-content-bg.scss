@@ -1,0 +1,2 @@
+@use "./dependencies/_modal-content-bg.scss" as *;
+@forward "bootstrap-sass-variables/modal-content-bg" with ($modal-content-bg: $gray-800 !default);
