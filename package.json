@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "npx sass ./src:./dist --load-path=\"./node_modules/bootstrap-sass-variables/sass\" --load-path=\"./node_modules/bootstrap\"",
-    "watch": "npx sass ./src:./dist --watch --load-path=\"./node_modules/bootstrap-sass-variables/sass\" --load-path=\"./node_modules/bootstrap\""
+    "build": "npx sass ./sass:./dist --load-path=\"./node_modules/bootstrap-sass-variables/sass\" --load-path=\"./node_modules/bootstrap\"",
+    "watch": "npx sass ./sass:./dist --watch --load-path=\"./node_modules/bootstrap-sass-variables/sass\" --load-path=\"./node_modules/bootstrap\""
   },
   "keywords": [],
   "author": "",
